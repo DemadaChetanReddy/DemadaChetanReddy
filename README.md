@@ -48,7 +48,67 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,java,fastapi,flask,postgres,mongodb,mysql,neo4j,aws,azure,docker,kubernetes,jenkins,linux,git,redis,terraform" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=go" height="50" />
+<img src="https://skillicons.dev/icons?i=java" height="50" />
+<img src="https://skillicons.dev/icons?i=ts" height="50" />
+
+<br/>
+
+Python &nbsp;&nbsp;&nbsp;&nbsp;
+Go &nbsp;&nbsp;&nbsp;&nbsp;
+Java &nbsp;&nbsp;&nbsp;&nbsp;
+TypeScript
+
+<br/><br/>
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" />
+<img src="https://skillicons.dev/icons?i=flask" height="50" />
+<img src="https://skillicons.dev/icons?i=django" height="50" />
+<img src="https://skillicons.dev/icons?i=postgres" height="50" />
+
+<br/>
+
+FastAPI &nbsp;&nbsp;&nbsp;&nbsp;
+Flask &nbsp;&nbsp;&nbsp;&nbsp;
+Django &nbsp;&nbsp;&nbsp;&nbsp;
+PostgreSQL
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" />
+<img src="https://skillicons.dev/icons?i=neo4j" height="50" />
+
+<br/>
+
+MongoDB &nbsp;&nbsp;&nbsp;&nbsp;
+MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+Neo4j
+
+<br/><br/>
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=aws" height="50" />
+<img src="https://skillicons.dev/icons?i=azure" height="50" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="50" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" />
+<img src="https://skillicons.dev/icons?i=git" height="50" />
+
+<br/>
+
+AWS &nbsp;&nbsp;
+Azure &nbsp;&nbsp;
+Docker &nbsp;&nbsp;
+Kubernetes &nbsp;&nbsp;
+Jenkins &nbsp;&nbsp;
+Linux &nbsp;&nbsp;
+Git
 
 </p>
 
