@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,java,ts,fastapi,flask,django,postgres,mongodb,mysql,neo4j,aws,azure,docker,kubernetes,jenkins,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,go,java,fastapi,flask,postgres,mongodb,mysql,neo4j,aws,azure,docker,kubernetes,jenkins,linux,git,redis,terraform" />
 
 </p>
 
