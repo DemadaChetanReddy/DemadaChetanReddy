@@ -22,13 +22,14 @@
 ### 🧪 Backend Engineer — LitmusCheck  
 📍 Bangalore | 🗓️ Jul 2024 – Present  
 
-- Built and scaled an **AI-powered browser automation platform** reducing manual test creation by **70%**
-- Architected autonomous browser execution using **Playwright + TypeScript**
-- Optimized workloads via **Azure AKS ephemeral pods** → **60% lower memory**
-- Implemented **org-level rate limiting, queue isolation, distributed scheduling (Celery)**
-- Enabled automated **Slack/email reporting** → **50% faster feedback**
+- Built and scaled an **AI-powered browser automation platform** that converts natural language goals into executable end-to-end UI tests, reducing manual test creation by **70%**
+- Implemented autonomous browser execution using **Playwright + TypeScript**, dynamically generating test scripts and executing them in isolated environments
+- Deployed containerized test runners on **Azure AKS ephemeral Docker pods**, enabling fault-isolated, horizontally scalable workloads with **10,000+ concurrent execution capacity**
+- Designed **queue-based asynchronous task processing with Celery** to decouple API requests from execution workers and enforce **org-level rate limiting**
+- Integrated automated **Slack/email failure notifications and execution tracking**, reducing feedback cycles by **50%**
+- Developed pod lifecycle monitoring services to maintain execution state consistency and system reliability
 
-**Tech:** `Python` `FastAPI` `PostgreSQL` `Celery` `Playwright` `Docker`
+**Tech:** `Python` `FastAPI` `Flask` `PostgreSQL` `Celery` `Redis` `Playwright` `Docker` `Azure AKS`
 
 ---
 
