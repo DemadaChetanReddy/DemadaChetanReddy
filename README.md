@@ -64,8 +64,6 @@
 </tr>
 </table>
 
----
-
 ### ⚙️ Frameworks
 <table align="center">
 <tr>
@@ -84,8 +82,6 @@
 </tr>
 </table>
 
----
-
 ### 🗄️ Databases
 <table align="center">
 <tr>
@@ -100,8 +96,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ### ☁️ DevOps & Cloud
 <table align="center">
@@ -129,14 +123,16 @@
 </td>
 </tr>
 </table>
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DemadaChetanReddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemadaChetanReddy&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://leetcard.jacoblin.cool/Chetan1999?theme=dark&font=Baloo&ext=contest" />
 </p>
+
+<img src="https://gfgstatscard.vercel.app/demadachetan" />
 
 ---
 
