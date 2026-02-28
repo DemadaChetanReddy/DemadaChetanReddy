@@ -10,11 +10,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Backend Engineer at **LitmusCheck**
-- 🤖 Building AI-powered browser automation platforms  
+- 🔭 Founding Engineer at **LitmusCheck**
+- 🤖 Building AI-powered automation platforms  
 - ☁️ Experienced in distributed systems & cloud-native architectures  
 - 🧠 Strong interest in **LLMs, automation, and scalable backend systems**
-- 🏆 GATE CSE 2022 AIR **2799**
 
 ---
 
@@ -126,14 +125,16 @@
 
 ---
 
-## 📊 Coding Activity
-
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
   <img src="https://leetcard.jacoblin.cool/Chetan1999?theme=dark&font=Baloo&ext=contest" />
-</p>
-
-<img src="https://gfgstatscard.vercel.app/demadachetan" />
-
+</td>
+<td align="center">
+  <img src="https://gfgstatscard.vercel.app/demadachetan" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🎓 Education
