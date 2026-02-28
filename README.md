@@ -46,8 +46,6 @@
 
 ## 🛠️ Tech Arsenal
 
-## 🛠️ Tech Arsenal
-
 ### 💻 Languages
 <table align="center">
 <tr>
@@ -98,7 +96,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="48" /><br/>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=neo4j" height="48" /><br/>Neo4j
+<img src="https://skills-icons.vercel.app/api/icons?i=neo4j" height="48" /><br/>Neo4j
 </td>
 </tr>
 </table>
@@ -131,7 +129,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics
