@@ -46,71 +46,91 @@
 
 ## 🛠️ Tech Arsenal
 
-<p align="center">
+## 🛠️ Tech Arsenal
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python" height="50" />
-<img src="https://skillicons.dev/icons?i=go" height="50" />
-<img src="https://skillicons.dev/icons?i=java" height="50" />
-<img src="https://skillicons.dev/icons?i=ts" height="50" />
+### 💻 Languages
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" height="48" /><br/>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" height="48" /><br/>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" height="48" /><br/>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" height="48" /><br/>TypeScript
+</td>
+</tr>
+</table>
 
-<br/>
+---
 
-Python &nbsp;&nbsp;&nbsp;&nbsp;
-Go &nbsp;&nbsp;&nbsp;&nbsp;
-Java &nbsp;&nbsp;&nbsp;&nbsp;
-TypeScript
+### ⚙️ Frameworks
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" height="48" /><br/>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" height="48" /><br/>Flask
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" height="48" /><br/>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" height="48" /><br/>PostgreSQL
+</td>
+</tr>
+</table>
 
-<br/><br/>
+---
 
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=fastapi" height="50" />
-<img src="https://skillicons.dev/icons?i=flask" height="50" />
-<img src="https://skillicons.dev/icons?i=django" height="50" />
-<img src="https://skillicons.dev/icons?i=postgres" height="50" />
+### 🗄️ Databases
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" height="48" /><br/>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" height="48" /><br/>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=neo4j" height="48" /><br/>Neo4j
+</td>
+</tr>
+</table>
 
-<br/>
+---
 
-FastAPI &nbsp;&nbsp;&nbsp;&nbsp;
-Flask &nbsp;&nbsp;&nbsp;&nbsp;
-Django &nbsp;&nbsp;&nbsp;&nbsp;
-PostgreSQL
-
-<br/><br/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" />
-<img src="https://skillicons.dev/icons?i=neo4j" height="50" />
-
-<br/>
-
-MongoDB &nbsp;&nbsp;&nbsp;&nbsp;
-MySQL &nbsp;&nbsp;&nbsp;&nbsp;
-Neo4j
-
-<br/><br/>
-
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=aws" height="50" />
-<img src="https://skillicons.dev/icons?i=azure" height="50" />
-<img src="https://skillicons.dev/icons?i=docker" height="50" />
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="50" />
-<img src="https://skillicons.dev/icons?i=linux" height="50" />
-<img src="https://skillicons.dev/icons?i=git" height="50" />
-
-<br/>
-
-AWS &nbsp;&nbsp;
-Azure &nbsp;&nbsp;
-Docker &nbsp;&nbsp;
-Kubernetes &nbsp;&nbsp;
-Jenkins &nbsp;&nbsp;
-Linux &nbsp;&nbsp;
-Git
-
-</p>
+### ☁️ DevOps & Cloud
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" height="48" /><br/>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" height="48" /><br/>Azure
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" height="48" /><br/>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="48" /><br/>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" height="48" /><br/>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" height="48" /><br/>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" height="48" /><br/>Git
+</td>
+</tr>
+</table>
 
 ---
 
