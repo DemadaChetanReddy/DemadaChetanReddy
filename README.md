@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:devamada.chetan@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/">🔗 LinkedIn</a> •
-  <a href="https://github.com/">💻 GitHub</a>
+  <a href="https://www.linkedin.com/in/demada-chetan/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -51,32 +50,16 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+Java • Python • Go • TypeScript • SQL • Terraform
 
-### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![Celery](https://img.shields.io/badge/Celery-green?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
+### ⚙️ Frameworks
+FastAPI • Flask • Django • Celery • Playwright
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
+PostgreSQL • MongoDB • MySQL • Neo4j
 
 ### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![CircleCI](https://img.shields.io/badge/CircleCI-black?style=for-the-badge&logo=circleci)
+AWS • Azure • Docker • Kubernetes • Jenkins • CircleCI • Git • Linux
 
 ---
 
@@ -117,20 +100,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email:** devamada.chetan@gmail.com  
-🔗 **LinkedIn:** add-your-link  
-💻 **GitHub:** add-your-link  
+🔗 **LinkedIn:** https://www.linkedin.com/in/demada-chetan/
 
 ---
 
