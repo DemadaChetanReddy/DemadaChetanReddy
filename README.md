@@ -36,11 +36,11 @@
 ### 🏢 Software Engineer — IBM / Kyndryl  
 📍 Bangalore | 🗓️ Jul 2021 – Jun 2024  
 
-- Built **Resource Visualizer (Topology)** using AWS CloudTrail & VPC Flow Logs
-- Designed **Service Composer**, a no-code Terraform generator
-- Integrated **Neo4j recommendation engine** for infra suggestions
+- Built backend services for a **Cloud Resource Visualizer**, generating dynamic topology graphs across **AWS** and **IBM Cloud** by ingesting **VPC Flow Logs** and **CloudTrail** events, retrieving infrastructure metadata via official **Go SDKs**, transforming data into node-edge relationships, and persisting graph structures in **MongoDB** for scalable querying and visualization.
+- Developed **Service Composer**, a no-code infrastructure design tool that enables users to visually compose cloud architectures and generate production-ready **Terraform** templates via backend APIs.
+- Integrated a **Neo4j-based recommendation engine** to model cloud resource dependencies and provide graph-driven infrastructure suggestions derived from Terraform Registry examples.
 
-**Tech:** `Go` `AWS` `Neo4j` `Terraform` `Kubernetes`
+**Tech:** `Go` `AWS` `IBM Cloud` `MongoDB` `Neo4j` `Terraform` `Kubernetes` `REST APIs`
 
 ---
 
