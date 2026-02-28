@@ -23,15 +23,13 @@
 ### 🧪 Backend Engineer — LitmusCheck  
 📍 Bangalore | 🗓️ Jul 2024 – Present  
 
-**Quality AI Platform**
 - Built and scaled an **AI-powered browser automation platform** reducing manual test creation by **70%**
 - Architected autonomous browser execution using **Playwright + TypeScript**
 - Optimized workloads via **Azure AKS ephemeral pods** → **60% lower memory**
 - Implemented **org-level rate limiting, queue isolation, distributed scheduling (Celery)**
 - Enabled automated **Slack/email reporting** → **50% faster feedback**
 
-**Tech Stack:**  
-`Python` `FastAPI` `PostgreSQL` `Celery` `Playwright` `Docker` `Jenkins` `CircleCI`
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Celery` `Playwright` `Docker`
 
 ---
 
@@ -42,46 +40,33 @@
 - Designed **Service Composer**, a no-code Terraform generator
 - Integrated **Neo4j recommendation engine** for infra suggestions
 
-**Tech Stack:**  
-`Go` `AWS` `IBM Cloud` `MongoDB` `Neo4j` `Python` `Terraform` `Kubernetes`
+**Tech:** `Go` `AWS` `Neo4j` `Terraform` `Kubernetes`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 👨‍💻 Languages
-Java • Python • Go • TypeScript • SQL • Terraform
+<p align="center">
 
-### ⚙️ Frameworks
-FastAPI • Flask • Django • Celery • Playwright
+<img src="https://skillicons.dev/icons?i=python,go,java,ts,fastapi,flask,django,postgres,mongodb,mysql,neo4j,aws,azure,docker,kubernetes,jenkins,linux,git" />
 
-### 🗄️ Databases
-PostgreSQL • MongoDB • MySQL • Neo4j
-
-### ☁️ DevOps & Cloud
-AWS • Azure • Docker • Kubernetes • Jenkins • CircleCI • Git • Linux
+</p>
 
 ---
 
-## 📂 Featured Project
+## 📊 GitHub Analytics
 
-### 🚗 AI Parking Bill Generator
-- Built AI-driven parking system using **AWS Textract**
-- Automated number plate recognition at entry & exit
-- Stored vehicle data in **AWS MySQL**
-- Generated accurate parking bills
-
-**Tech Used:** AWS Lambda, S3, EC2, Textract
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DemadaChetanReddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemadaChetanReddy&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
 **B.Tech (ECE)** — VIT University, Vellore  
-🎓 CGPA: **8.84** (2017–2021)
-
-**Intermediate** — Sri Chaitanya College, Hyderabad  
-📊 Percentage: **98.4%**
+🎓 CGPA: **8.84**
 
 ---
 
@@ -96,7 +81,7 @@ AWS • Azure • Docker • Kubernetes • Jenkins • CircleCI • Git • Lin
 ## 🏆 Achievements
 
 - 🥇 **GATE CSE 2022 AIR 2799**
-- 🥈 **2nd Place — CodeChef Cookoff 6.0 (VIT Chapter)**
+- 🥈 **CodeChef Cookoff 6.0 — 2nd Place**
 
 ---
 
